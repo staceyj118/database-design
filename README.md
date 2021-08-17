@@ -6,6 +6,11 @@ Research project on employees at Pewlett Hackard from 1980s and 1990s. Database 
 ## Requirements 
 Design tables to hold data in CSVs, import CSVs into a SQL database. 
 
+ERD Map: 
+
+![](https://github.com/staceyj118/sql-challenge/blob/main/Employe%20SQL/Images/ERD.png?raw=true)
+
+
 ## Analysis
 1) List the following details of each employee: employee number, last name, first name, sex, and salary.
 
@@ -41,9 +46,16 @@ Design tables to hold data in CSVs, import CSVs into a SQL database.
 
 
 ## Conclusions
-Data examination leads to suspicion that the dataset is fake. To confirm, SQL database was imported into Pandas. 
+Data examination leads to suspicion that the dataset is fake. To confirm, SQL database was imported into Pandas.
+ 
 Histogram visualizing most common salary ranges for employees: 
+
+![](https://github.com/staceyj118/sql-challenge/blob/main/Employe%20SQL/Images/Histogram.png?raw=true)
+
 Bar chart of average salary by title: 
+
+![](https://github.com/staceyj118/sql-challenge/blob/main/Employe%20SQL/Images/Avg_Salary.png?raw=true)
+
 
 ## Epilogue
 My employee ID number is 499942
