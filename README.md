@@ -3,7 +3,7 @@
 ## Background
 Research project on employees at Pewlett Hackard from 1980s and 1990s. Database of employees from this period are on 6 CSV files. 
 
-## Requirements 
+## Dictionary 
 Design tables to hold data in CSVs, import CSVs into a SQL database. 
 
 ERD Map: 
